@@ -1,0 +1,28 @@
+total 32
+drwxr-xr-x 2 root root 208 Sep  5 10:48 .
+drwxr-xr-x 6 root root 125 Sep  5 09:31 ..
+-rwxr-xr-x 1 root root  32 Sep  5 09:48 0-hello_world
+-rwxr-xr-x 1 root root  28 Sep  5 10:10 2-hellofile
+-rwxr-xr-x 1 root root  39 Sep  5 10:17 3-twofiles
+-rwxr-xr-x 1 root root  33 Sep  5 10:22 4-lastlines
+-rwxr-xr-x 1 root root  33 Sep  5 10:27 5-firstlines
+-rwxr-xr-x 1 root root  36 Sep  5 10:32 6-third_line
+-rw-r--r-- 1 root root   0 Sep  5 10:38 7-file
+-rwxr-xr-x 1 root root  37 Sep  5 10:47 8-cwd_state
+-rw-r--r-- 1 root root   0 Sep  5 10:34 iacta
+-rw-r--r-- 1 root root   0 Sep  5 10:48 ls_cwd_content
+-rw-r--r-- 1 root root  41 Sep  5 09:34 README.md
+total 36
+drwxr-xr-x 2 root root 208 Sep  5 10:48 .
+drwxr-xr-x 6 root root 125 Sep  5 09:31 ..
+-rwxr-xr-x 1 root root  32 Sep  5 09:48 0-hello_world
+-rwxr-xr-x 1 root root  28 Sep  5 10:10 2-hellofile
+-rwxr-xr-x 1 root root  39 Sep  5 10:17 3-twofiles
+-rwxr-xr-x 1 root root  33 Sep  5 10:22 4-lastlines
+-rwxr-xr-x 1 root root  33 Sep  5 10:27 5-firstlines
+-rwxr-xr-x 1 root root  36 Sep  5 10:32 6-third_line
+-rw-r--r-- 1 root root   0 Sep  5 10:38 7-file
+-rwxr-xr-x 1 root root  37 Sep  5 10:47 8-cwd_state
+-rw-r--r-- 1 root root   0 Sep  5 10:34 iacta
+-rw-r--r-- 1 root root 659 Sep  5 10:48 ls_cwd_content
+-rw-r--r-- 1 root root  41 Sep  5 09:34 README.md
