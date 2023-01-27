@@ -2,4 +2,5 @@
 # display bash PID (without using pgrep bash)
 # shellcheck disable=SC2009
 # ignore shellcheck suggestion for pgrep
+
 ps aux | grep "bash"
