@@ -1,13 +1,4 @@
 #!/usr/bin/env bash
+# This script displays all acive IPv4 addresses on the machine.
 
-# Change localhost to 127.0.0.2
-
-# Change facebook.com to 8.8.8.8
-
-
-
-cp /etc/hosts ~/hosts.new
-
-sed -i 's/127.*$/127.0.0.2 localhost\n8.8.8.8 facebook.com/' ~/hosts.new
-
-cp -f ~/hosts.new /etc/hosts
+ifconfig | grep -Eo "inet (addr:)?([0-9]*\.){3}[0-9]*" | cut -b 6-
