@@ -39,5 +39,5 @@ frontend front
 backend back
     redirect scheme https code 301 if !{ ssl_fc }
     balance roundrobin
-        server 130171-web-01 52.90.13.9:80 check
-        server 130171-web-02 52.91.165.148:80 check
+    server 130171-web-01 52.90.13.9:80 check
+    server 130171-web-02 52.91.165.148:80 check
